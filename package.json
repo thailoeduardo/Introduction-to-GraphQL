@@ -1,0 +1,28 @@
+{
+	"name": "introduction-to-graphql",
+	"version": "1.0.0",
+	"description": "Introduction to GraphQL (study)",
+	"main": "index.js",
+	"scripts": {
+    "dev": "npx nodemon index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/thailoeduardo/Introduction-to-GraphQL.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/thailoeduardo/Introduction-to-GraphQL/issues"
+	},
+	"homepage": "https://github.com/thailoeduardo/Introduction-to-GraphQL#readme",
+	"dependencies": {
+		"apollo-server": "^3.10.0",
+		"graphql": "^16.5.0"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.19"
+	}
+}
